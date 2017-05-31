@@ -4,4 +4,4 @@ As an assignment in the course CSCB09 at the University of Toronto, I wrote two 
 
 ## Test Files Provided
 
-Test files provided in repo under /tests. /test holds all PPM files used to test this assignment alongside the result. /test/jpg holds all the JPG files converted from PPM from the previous directory.
+Test files provided in repo under /test. /test holds all PPM files used to test this assignment alongside the result. /test/jpg holds all the JPG files converted from PPM from the previous directory.
